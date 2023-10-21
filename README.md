@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/alsani-ipe/X-ray-Image-Classification-using-Transfer-Learning">
-    <img src="http://alsani.me/wp-content/uploads/2023/10/Screenshot-2023-10-21-153954.png" alt="Logo" width="80" height="80">
+    <img src="http://alsani.me/wp-content/uploads/2023/10/Screenshot-2023-10-21-155406.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">X-ray-Image-Classification-using-Transfer-Learning</h3>
